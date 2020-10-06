@@ -1,5 +1,3 @@
-;author : Mrinal Pandey
-
 .model small                             ; assembler directive to allocate memory
 
 .data                                    ; data segment
